@@ -1,0 +1,17 @@
+{
+  "name": "BitChat Web - Decentralized Mesh",
+  "short_name": "BitChat",
+  "description": "Decentralized, end-to-end encrypted messaging via Nostr protocol & Geohash channels",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0d0e",
+  "theme_color": "#00f2aa",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
